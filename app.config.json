@@ -1,10 +1,10 @@
 {
   "title": "Chess",
   "description": "Play the computer on a 3D chess board, by mouse or by hand",
-  "image": "/images/og-default.jpg",
+  "image": "/images/chess-thumbnail.jpg",
   "imageAlt": "Chess — a camera experience built with Vincentt",
-  "imageWidth": 1200,
-  "imageHeight": 630,
+  "imageWidth": 1672,
+  "imageHeight": 941,
   "imageType": "image/jpeg",
   "url": "https://chess.vincentt.app"
 }

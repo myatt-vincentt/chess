@@ -4,6 +4,7 @@ Play the computer on a glossy 3D chess board floating in front of you, over your
 Pick your colour (white, black or either) and the computer's strength, from Beginner 800 to Master
 2600, with an optional clock (5 min, 10 min or 3+2). The picture fills the whole screen.
 
+- Thumbnail: `public/images/chess-thumbnail.jpg` (the share image).
 - **By hand.** Pinch (thumb to index) on or near one of your pieces to pick it up: it lifts and
   follows your pinch, with a glowing ring under it and its squares lit. Open the pinch over a lit
   square to put it there; anywhere else it eases back. Two open palms orbit the board: keep one
