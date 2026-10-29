@@ -1,9 +1,10 @@
 {
-  "title": "XR App - Vincentt",
-  "description": "An AR experience built with Vincentt",
+  "title": "Chess",
+  "description": "Play the computer on a 3D chess board, by mouse or by hand",
   "image": "/images/og-default.jpg",
-  "imageAlt": "Vincentt — Augmented Reality App builder",
+  "imageAlt": "Chess — a camera experience built with Vincentt",
   "imageWidth": 1200,
   "imageHeight": 630,
-  "imageType": "image/jpeg"
+  "imageType": "image/jpeg",
+  "url": "https://chess.vincentt.app"
 }

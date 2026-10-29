@@ -1,6 +1,7 @@
 {
   "name": "v2-template",
   "private": true,
+  "license": "GPL-3.0-or-later",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
@@ -18,6 +19,7 @@
     "@vincentt-xr/analytics": "^0.3.0",
     "@vincentt-xr/harness": "^3.0.0",
     "@vincentt-xr/sdk": "2.0.0-alpha.9",
+    "chess.js": "1.4.0",
     "onnxruntime-web": "^1.27.0",
     "qrcode.react": "4.2.0",
     "react": "18.3.1",
